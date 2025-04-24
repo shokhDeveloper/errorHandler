@@ -1,0 +1,16 @@
+{
+  "name": "error-handler",
+  "version": "1.0.0",
+  "main": "src/error.js",
+  "scripts": {
+    "start": "node src/error",
+    "dev": "nodemon src/error"
+  },
+  "keywords": ["bug", "error", "error-handler", "express", "http", "node.js"],
+  "author": "Shohijahon Musinkulov",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
