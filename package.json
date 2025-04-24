@@ -8,6 +8,14 @@
   },
   "keywords": ["bug", "error", "error-handler", "express", "http", "node.js"],
   "author": "Shohijahon Musinkulov",
+  "bugs": {
+    "url": "https://github.com/shokhDeveloper/errorHandler/issues",
+    "email": "shohijahonmusinkulov@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shokhDeveloper/errorHandler"
+  },
   "license": "ISC",
   "description": "",
   "devDependencies": {
